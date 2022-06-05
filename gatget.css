@@ -1,0 +1,52 @@
+.buy-now{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.bg1{
+    background-image: url(image/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.container{
+    margin-bottom: 100px;
+}
+.x h5 a{
+    color: #FF9D00;
+    text-decoration: none;
+    
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top:none;
+    text-align: center;
+}
+.bg2{
+    background-image: url(image/bg-2.png);
+    background-repeat: no-repeat;
+    
+}
+.cate{
+    text-align: center;
+    text-decoration: underline #FF9C35;
+
+}
+.sohag{
+    height: 350px;
+    width: 350px;
+}
+.sohag-card{
+    height: 200px;
+}
+
